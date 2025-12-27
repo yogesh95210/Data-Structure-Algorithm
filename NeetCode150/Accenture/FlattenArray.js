@@ -15,6 +15,7 @@ let res= []
    }
 
 console.log(flatten([1,2,3,[4,5,6,[7,8,[10,11]]],9]))
+console.log(flatten([1,[2,3],[4]]))
 
 
 //Direct Way
